@@ -35,7 +35,8 @@ Because the script calls an external API, a simple `onEdit` trigger won't suffic
 5. Set event type to **On edit**.
 6. Save and authorize permissions.
 
----
+### Sample Data
+You can download the sample dataset used in this project here: [sales_data.csv](./sales_data.csv)
 
 ## 🛠️ How It Works
 
