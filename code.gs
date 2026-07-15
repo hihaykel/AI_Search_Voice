@@ -1,5 +1,5 @@
 // ====== CONFIGURATION ======
-const API_KEY = "YOUR_API_KEY_HERE";
+const API_KEY = "Your API_KEY";
 const GEMINI_URL = "https://generativelanguage.googleapis.com/v1/models/gemini-2.5-flash:generateContent?key=" + API_KEY;
 
 /**
@@ -76,11 +76,13 @@ function onEdit(e) {
 }
 
 /**
- * Fonction interne de recherche (Ligne 4 = en-têtes)
+ * Fonction interne de recherche (Ligne 6 = en-têtes, donc index 5)
  */
 function searchAndCalculate(sheet, criteria) {
   const rows = sheet.getDataRange().getValues();
-  const idxHeaderRow = 3; 
+  
+  // SEULE MODIFICATION : 5 au lieu de 3 pour cibler la ligne 6 (vos en-têtes)
+  const idxHeaderRow = 5; 
   
   if (rows.length <= idxHeaderRow + 1) return "No data found.";
   
