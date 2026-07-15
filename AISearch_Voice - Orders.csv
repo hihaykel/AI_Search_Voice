@@ -1,0 +1,106 @@
+,,,,,,,,,,,,,
+Voice Input ,How much profit did we make from office supplies in Texas,,,🤖 AI Insights ,Total Profit: $238.80 (5 orders),,,,,,,,
+,what are the sales for john smith,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Order ID,Order Date,Ship Date,Customer ID,Customer Name,City,State,Postal Code,Product ID,Category,Sales,Quantity,Discount,Profit
+US-2023-100002,29/06/2023,02/07/2023,CU-1002,John Smith,Los Angeles,California,90001,PRD-10002,Office Supplies,"1298,01",3,"0,2","64,9"
+US-2021-100003,25/02/2021,04/03/2021,CU-1003,Liam Anderson,Houston,Texas,77001,PRD-10003,Office Supplies,"1029,98",7,"0,1",103
+US-2022-100004,21/11/2022,24/11/2022,CU-1004,James Taylor,Chicago,Illinois,60601,PRD-10004,Technology,"617,53",4,"0,1","61,75"
+US-2023-100005,28/08/2023,01/09/2023,CU-1005,Emma Johnson,New York,New York,10001,PRD-10005,Office Supplies,"1194,76",4,"0,2","59,74"
+US-2021-100006,12/02/2021,16/02/2021,CU-1006,Emma Johnson,Chicago,Illinois,60601,PRD-10006,Office Supplies,"751,15",10,"0,1","75,11"
+US-2021-100007,03/10/2021,06/10/2021,CU-1007,Michael Brown,Phoenix,Arizona,85001,PRD-10007,Furniture,"812,74",4,0,"121,91"
+US-2023-100008,22/08/2023,28/08/2023,CU-1008,Liam Anderson,New York,New York,10001,PRD-10008,Furniture,"623,38",5,"0,1","62,34"
+US-2023-100009,05/11/2023,10/11/2023,CU-1009,John Smith,Houston,Texas,77001,PRD-10009,Office Supplies,"977,68",9,"0,1","97,77"
+US-2021-100010,27/12/2021,30/12/2021,CU-1010,Michael Brown,Phoenix,Arizona,85001,PRD-10010,Furniture,"1374,02",2,0,"206,1"
+US-2023-100011,10/04/2023,15/04/2023,CU-1011,Isabella Moore,Chicago,Illinois,60601,PRD-10011,Office Supplies,"343,8",9,0,"51,57"
+US-2024-100012,23/01/2024,28/01/2024,CU-1012,Michael Brown,New York,New York,10001,PRD-10012,Furniture,"989,59",2,"0,2","49,48"
+US-2021-100013,31/05/2021,03/06/2021,CU-1013,James Taylor,Chicago,Illinois,60601,PRD-10013,Technology,"1379,61",10,"0,1","137,96"
+US-2022-100014,10/08/2022,17/08/2022,CU-1014,Olivia Davis,New York,New York,10001,PRD-10014,Office Supplies,"335,88",10,"0,2","16,79"
+US-2021-100015,10/05/2021,11/05/2021,CU-1015,Liam Anderson,New York,New York,10001,PRD-10015,Technology,"1471,47",3,"0,2","73,57"
+US-2023-100016,18/06/2023,22/06/2023,CU-1016,Liam Anderson,Chicago,Illinois,60601,PRD-10016,Technology,"531,81",10,"0,3",0
+US-2024-100017,07/02/2024,10/02/2024,CU-1017,Sophia Miller,Chicago,Illinois,60601,PRD-10017,Office Supplies,"869,15",6,"0,2","43,46"
+US-2022-100018,03/11/2022,09/11/2022,CU-1018,James Taylor,Los Angeles,California,90001,PRD-10018,Technology,"452,29",5,"0,3",0
+US-2023-100019,01/02/2023,05/02/2023,CU-1019,Emma Johnson,Houston,Texas,77001,PRD-10019,Furniture,497,5,0,"74,55"
+US-2021-100020,19/01/2021,22/01/2021,CU-1020,John Smith,Houston,Texas,77001,PRD-10020,Technology,"1134,89",8,"0,3",0
+US-2021-100021,26/09/2021,30/09/2021,CU-1021,William Wilson,Los Angeles,California,90001,PRD-10021,Furniture,"441,62",4,0,"66,24"
+US-2021-100022,01/01/2021,02/01/2021,CU-1022,Sophia Miller,Houston,Texas,77001,PRD-10022,Office Supplies,"1163,12",4,"0,3",0
+US-2024-100023,18/02/2024,23/02/2024,CU-1023,William Wilson,New York,New York,10001,PRD-10023,Office Supplies,"526,07",3,0,"78,91"
+US-2024-100024,01/01/2024,06/01/2024,CU-1024,Sophia Miller,Phoenix,Arizona,85001,PRD-10024,Technology,"1126,58",3,"0,2","56,33"
+US-2024-100025,06/10/2024,08/10/2024,CU-1025,William Wilson,Los Angeles,California,90001,PRD-10025,Office Supplies,"418,72",7,"0,3",0
+US-2023-100026,08/01/2023,09/01/2023,CU-1026,James Taylor,New York,New York,10001,PRD-10026,Technology,"302,99",5,0,"45,45"
+US-2022-100027,28/10/2022,01/11/2022,CU-1027,Mia Thomas,Houston,Texas,77001,PRD-10027,Furniture,"130,72",3,"0,1","13,07"
+US-2022-100028,23/05/2022,28/05/2022,CU-1028,Emma Johnson,Houston,Texas,77001,PRD-10028,Technology,"144,5",10,"0,2","7,22"
+US-2024-100029,13/02/2024,18/02/2024,CU-1029,Mia Thomas,Phoenix,Arizona,85001,PRD-10029,Technology,"739,7",7,0,"110,95"
+US-2021-100030,29/08/2021,04/09/2021,CU-1030,Mia Thomas,Houston,Texas,77001,PRD-10030,Furniture,"349,61",8,"0,1","34,96"
+US-2021-100031,22/01/2021,23/01/2021,CU-1031,John Smith,Houston,Texas,77001,PRD-10031,Technology,"289,13",2,0,"43,37"
+US-2021-100032,30/10/2021,01/11/2021,CU-1032,Emma Johnson,Los Angeles,California,90001,PRD-10032,Technology,"976,9",5,"0,2","48,84"
+US-2022-100033,21/11/2022,22/11/2022,CU-1033,Sophia Miller,Chicago,Illinois,60601,PRD-10033,Office Supplies,"1217,78",6,"0,1","121,78"
+US-2022-100034,02/02/2022,05/02/2022,CU-1034,Michael Brown,Los Angeles,California,90001,PRD-10034,Furniture,"229,34",5,"0,2","11,47"
+US-2024-100035,09/02/2024,14/02/2024,CU-1035,John Smith,Los Angeles,California,90001,PRD-10035,Technology,"338,9",9,"0,2","16,94"
+US-2022-100036,12/08/2022,13/08/2022,CU-1036,Michael Brown,Houston,Texas,77001,PRD-10036,Technology,"884,2",1,0,"132,63"
+US-2021-100037,05/11/2021,11/11/2021,CU-1037,Mia Thomas,New York,New York,10001,PRD-10037,Furniture,"1167,17",5,"0,2","58,36"
+US-2021-100038,11/09/2021,17/09/2021,CU-1038,William Wilson,New York,New York,10001,PRD-10038,Technology,"1046,71",10,"0,3",0
+US-2021-100039,16/10/2021,19/10/2021,CU-1039,Mia Thomas,Phoenix,Arizona,85001,PRD-10039,Furniture,"275,76",7,0,"41,36"
+US-2023-100040,01/08/2023,04/08/2023,CU-1040,Liam Anderson,Chicago,Illinois,60601,PRD-10040,Technology,"887,88",9,"0,1","88,79"
+US-2021-100041,02/12/2021,04/12/2021,CU-1041,Mia Thomas,Chicago,Illinois,60601,PRD-10041,Technology,"1346,9",3,"0,3",0
+US-2023-100042,12/07/2023,13/07/2023,CU-1042,Isabella Moore,Los Angeles,California,90001,PRD-10042,Furniture,"140,59",4,"0,2","7,03"
+US-2024-100043,18/02/2024,21/02/2024,CU-1043,John Smith,Los Angeles,California,90001,PRD-10043,Office Supplies,"317,89",10,"0,1","31,79"
+US-2023-100044,27/09/2023,04/10/2023,CU-1044,Liam Anderson,Los Angeles,California,90001,PRD-10044,Furniture,"1314,99",2,"0,1","131,5"
+US-2023-100045,06/10/2023,12/10/2023,CU-1045,Sophia Miller,Phoenix,Arizona,85001,PRD-10045,Office Supplies,"1165,93",8,0,"174,89"
+US-2024-100046,05/05/2024,10/05/2024,CU-1046,Michael Brown,Phoenix,Arizona,85001,PRD-10046,Furniture,"614,44",2,"0,2","30,72"
+US-2023-100047,02/04/2023,09/04/2023,CU-1047,Mia Thomas,Chicago,Illinois,60601,PRD-10047,Office Supplies,"1439,22",10,"0,2","71,96"
+US-2023-100048,09/10/2023,13/10/2023,CU-1048,Emma Johnson,Chicago,Illinois,60601,PRD-10048,Furniture,"495,36",6,"0,3",0
+US-2022-100049,03/05/2022,05/05/2022,CU-1049,Sophia Miller,Chicago,Illinois,60601,PRD-10049,Technology,"37,77",5,"0,2","1,89"
+US-2023-100050,06/07/2023,11/07/2023,CU-1050,Sophia Miller,Houston,Texas,77001,PRD-10050,Furniture,"88,28",4,"0,3",0
+US-2023-100051,17/06/2023,21/06/2023,CU-1051,Olivia Davis,Phoenix,Arizona,85001,PRD-10051,Furniture,"1058,94",6,"0,2","52,95"
+US-2023-100052,06/03/2023,07/03/2023,CU-1052,Emma Johnson,Phoenix,Arizona,85001,PRD-10052,Technology,"1121,13",7,"0,1","112,11"
+US-2022-100053,16/11/2022,19/11/2022,CU-1053,Olivia Davis,Los Angeles,California,90001,PRD-10053,Office Supplies,"282,25",7,0,"42,34"
+US-2021-100054,25/10/2021,26/10/2021,CU-1054,Michael Brown,New York,New York,10001,PRD-10054,Furniture,"694,35",7,"0,1","69,44"
+US-2021-100055,08/11/2021,11/11/2021,CU-1055,William Wilson,New York,New York,10001,PRD-10055,Office Supplies,"1189,84",8,0,"178,48"
+US-2024-100056,02/09/2024,04/09/2024,CU-1056,John Smith,Los Angeles,California,90001,PRD-10056,Furniture,"1007,64",6,"0,2","50,38"
+US-2022-100057,28/10/2022,29/10/2022,CU-1057,Mia Thomas,Los Angeles,California,90001,PRD-10057,Technology,"307,6",10,"0,2","15,38"
+US-2022-100058,03/01/2022,09/01/2022,CU-1058,John Smith,Phoenix,Arizona,85001,PRD-10058,Furniture,"727,28",3,0,"109,09"
+US-2021-100059,03/05/2021,09/05/2021,CU-1059,Sophia Miller,New York,New York,10001,PRD-10059,Technology,"76,75",9,0,"11,51"
+US-2021-100060,11/04/2021,16/04/2021,CU-1060,William Wilson,Houston,Texas,77001,PRD-10060,Office Supplies,"1094,7",2,"0,3",0
+US-2021-100061,08/12/2021,14/12/2021,CU-1061,James Taylor,Chicago,Illinois,60601,PRD-10061,Office Supplies,"184,9",8,"0,2","9,24"
+US-2022-100062,07/08/2022,09/08/2022,CU-1062,James Taylor,Chicago,Illinois,60601,PRD-10062,Furniture,"1355,93",1,"0,3",0
+US-2022-100063,09/01/2022,16/01/2022,CU-1063,Emma Johnson,Chicago,Illinois,60601,PRD-10063,Technology,"812,64",1,"0,2","40,63"
+US-2024-100064,02/09/2024,07/09/2024,CU-1064,Michael Brown,Los Angeles,California,90001,PRD-10064,Furniture,"367,76",10,0,"55,16"
+US-2021-100065,16/04/2021,17/04/2021,CU-1065,Michael Brown,Chicago,Illinois,60601,PRD-10065,Office Supplies,"1341,66",4,"0,2","67,08"
+US-2021-100066,08/07/2021,10/07/2021,CU-1066,Mia Thomas,Chicago,Illinois,60601,PRD-10066,Office Supplies,"555,92",7,0,"83,39"
+US-2024-100067,28/09/2024,05/10/2024,CU-1067,James Taylor,Los Angeles,California,90001,PRD-10067,Furniture,"636,74",1,"0,3",0
+US-2023-100068,06/01/2023,11/01/2023,CU-1068,Liam Anderson,Houston,Texas,77001,PRD-10068,Office Supplies,"760,65",8,"0,2","38,03"
+US-2024-100069,25/04/2024,27/04/2024,CU-1069,Emma Johnson,Houston,Texas,77001,PRD-10069,Furniture,"1432,36",5,"0,3",0
+US-2023-100070,15/01/2023,22/01/2023,CU-1070,James Taylor,Houston,Texas,77001,PRD-10070,Technology,"1315,06",6,"0,3",0
+US-2021-100071,18/07/2021,25/07/2021,CU-1071,Isabella Moore,Houston,Texas,77001,PRD-10071,Furniture,"1109,67",4,"0,3",0
+US-2022-100072,25/03/2022,01/04/2022,CU-1072,Mia Thomas,Chicago,Illinois,60601,PRD-10072,Technology,"698,82",8,"0,1","69,88"
+US-2022-100073,15/10/2022,20/10/2022,CU-1073,John Smith,Houston,Texas,77001,PRD-10073,Furniture,"935,49",2,"0,3",0
+US-2024-100074,24/09/2024,29/09/2024,CU-1074,Sophia Miller,New York,New York,10001,PRD-10074,Technology,"920,43",4,"0,1","92,04"
+US-2024-100075,09/02/2024,10/02/2024,CU-1075,Isabella Moore,Phoenix,Arizona,85001,PRD-10075,Technology,"1354,06",2,0,"203,11"
+US-2024-100076,10/08/2024,17/08/2024,CU-1076,Liam Anderson,New York,New York,10001,PRD-10076,Office Supplies,"455,36",8,"0,3",0
+US-2021-100077,22/02/2021,24/02/2021,CU-1077,William Wilson,Los Angeles,California,90001,PRD-10077,Furniture,"1430,97",8,0,"214,65"
+US-2021-100078,21/02/2021,26/02/2021,CU-1078,Mia Thomas,Los Angeles,California,90001,PRD-10078,Technology,"1180,55",6,0,"177,08"
+US-2023-100079,20/01/2023,24/01/2023,CU-1079,Mia Thomas,New York,New York,10001,PRD-10079,Furniture,"106,25",8,"0,1","10,62"
+US-2022-100080,08/11/2022,11/11/2022,CU-1080,James Taylor,Los Angeles,California,90001,PRD-10080,Technology,"289,58",5,"0,1","28,96"
+US-2024-100081,06/03/2024,09/03/2024,CU-1081,Michael Brown,New York,New York,10001,PRD-10081,Technology,"532,78",2,"0,2","26,64"
+US-2022-100082,29/05/2022,31/05/2022,CU-1082,John Smith,New York,New York,10001,PRD-10082,Technology,"1200,79",9,"0,2","60,04"
+US-2022-100083,26/12/2022,02/01/2023,CU-1083,Liam Anderson,Los Angeles,California,90001,PRD-10083,Furniture,226,1,"0,1","22,6"
+US-2023-100084,21/06/2023,24/06/2023,CU-1084,Olivia Davis,Phoenix,Arizona,85001,PRD-10084,Furniture,"953,61",3,"0,1","95,36"
+US-2023-100085,07/06/2023,08/06/2023,CU-1085,James Taylor,New York,New York,10001,PRD-10085,Technology,"514,98",4,"0,2","25,75"
+US-2024-100086,06/02/2024,09/02/2024,CU-1086,Liam Anderson,New York,New York,10001,PRD-10086,Office Supplies,"40,03",7,"0,1",4
+US-2024-100087,08/01/2024,11/01/2024,CU-1087,John Smith,Phoenix,Arizona,85001,PRD-10087,Technology,"1444,77",2,"0,2","72,24"
+US-2022-100088,24/06/2022,25/06/2022,CU-1088,Michael Brown,Chicago,Illinois,60601,PRD-10088,Furniture,"778,51",5,"0,1","77,85"
+US-2023-100089,08/02/2023,11/02/2023,CU-1089,Michael Brown,New York,New York,10001,PRD-10089,Technology,"1039,54",4,"0,1","103,95"
+US-2021-100090,22/03/2021,29/03/2021,CU-1090,Emma Johnson,Phoenix,Arizona,85001,PRD-10090,Office Supplies,"38,18",2,"0,2","1,91"
+US-2022-100091,28/10/2022,01/11/2022,CU-1091,John Smith,Los Angeles,California,90001,PRD-10091,Office Supplies,"57,66",1,"0,3",0
+US-2023-100092,09/01/2023,10/01/2023,CU-1092,John Smith,New York,New York,10001,PRD-10092,Office Supplies,"1261,01",4,"0,1","126,1"
+US-2023-100093,05/12/2023,08/12/2023,CU-1093,Liam Anderson,Chicago,Illinois,60601,PRD-10093,Furniture,"241,93",5,"0,1","24,19"
+US-2022-100094,14/03/2022,16/03/2022,CU-1094,Emma Johnson,Los Angeles,California,90001,PRD-10094,Office Supplies,"1014,6",9,"0,1","101,46"
+US-2024-100095,08/04/2024,15/04/2024,CU-1095,Isabella Moore,Chicago,Illinois,60601,PRD-10095,Office Supplies,"169,89",3,"0,2","8,49"
+US-2023-100096,17/07/2023,19/07/2023,CU-1096,Mia Thomas,Phoenix,Arizona,85001,PRD-10096,Furniture,"312,44",6,0,"46,87"
+US-2024-100097,03/08/2024,06/08/2024,CU-1097,Michael Brown,Houston,Texas,77001,PRD-10097,Furniture,"826,7",3,"0,3",0
+US-2022-100098,02/01/2022,09/01/2022,CU-1098,John Smith,Phoenix,Arizona,85001,PRD-10098,Technology,"817,49",9,"0,2","40,87"
+US-2021-100099,16/05/2021,18/05/2021,CU-1099,Sophia Miller,Phoenix,Arizona,85001,PRD-10099,Furniture,"1249,91",5,"0,1","124,99"
+US-2021-100100,14/02/2021,19/02/2021,CU-1100,Sophia Miller,Houston,Texas,77001,PRD-10100,Furniture,"1452,68",10,"0,3",0
+US-2021-100101,17/09/2021,18/09/2021,CU-1101,Isabella Moore,Los Angeles,California,90001,PRD-10101,Office Supplies,"468,83",5,0,"70,32"
